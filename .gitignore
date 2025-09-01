@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# files to ignore
+/legacy
+.env
+donna.db
+credentials.json
+.DS_Store
