@@ -3,7 +3,7 @@
 - Donna is a modern, conversational AI personal assistant built with Python, Telegram Bot API, and OpenAI GPT-5 Mini.
   She helps you manage your calendar, answer questions, and handle everyday tasks through natural, human-like conversations.
 
-✨ Features
+## ✨ Features
 
 Core Capabilities
 • 🗣 Natural Conversations – Chat naturally, with context remembered across turns.
@@ -12,7 +12,7 @@ Core Capabilities
 • 🧠 Persistent Memory – Keeps track of conversation state.
 • ⚡ Error Recovery – Handles failures gracefully and keeps the chat going.
 
-Project structure
+## Project structure
 
 ```
 donna/
